@@ -1,0 +1,284 @@
+
+stdClass Object
+(
+    [access_token] => 0714c8ef-e23d-472d-9328-afd76a6e13aa
+    [expires_in] => 3600
+    [token_type] => bearer
+    [scope] => 
+    [refresh_token] => ad6b388a-3042-4d01-8014-f1d5cec16236
+    [refresh_expires_in] => 1209599
+    [download_token] => 71d5b3b0-695f-4ae8-9dae-6358b62837fb
+)
+</br>
+1|1|INVALID EMAILS||</br>
+1|2|qa72@example.de||</br>
+stdClass Object
+(
+    [next_offset] => -1
+    [records] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 099cecdc-4b2e-11e8-aa72-0211b31cacdf
+                    [email_address] => qa72@example.de
+                    [email_address_caps] => QA72@EXAMPLE.DE
+                    [invalid_email] => 
+                    [opt_out] => 1
+                    [date_created] => 2018-04-28T21:48:09+00:00
+                    [date_modified] => 2018-04-28T21:48:09+00:00
+                    [confirmation_requested_on] => 
+                    [deleted] => 
+                    [my_favorite] => 
+                    [_acl] => stdClass Object
+                        (
+                            [fields] => stdClass Object
+                                (
+                                )
+
+                        )
+
+                    [_module] => EmailAddresses
+                )
+
+        )
+
+)
+##</br>SET EMAIL_ADDR to INVALID 099cecdc-4b2e-11e8-aa72-0211b31cacdf ##</br>stdClass Object
+(
+    [id] => 099cecdc-4b2e-11e8-aa72-0211b31cacdf
+    [email_address] => qa72@example.de
+    [email_address_caps] => QA72@EXAMPLE.DE
+    [invalid_email] => 1
+    [opt_out] => 1
+    [date_created] => 2018-04-28T21:48:09+00:00
+    [date_modified] => 2020-03-31T16:08:16+00:00
+    [confirmation_requested_on] => 
+    [deleted] => 
+    [my_favorite] => 
+    [_acl] => stdClass Object
+        (
+            [fields] => stdClass Object
+                (
+                )
+
+        )
+
+    [_module] => EmailAddresses
+)
+##</br>1|3|sales.kid@example.co.jp||</br>
+stdClass Object
+(
+    [next_offset] => -1
+    [records] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 0a68a016-4b2e-11e8-ad5c-0211b31cacdf
+                    [email_address] => sales.kid@example.co.jp
+                    [email_address_caps] => SALES.KID@EXAMPLE.CO.JP
+                    [invalid_email] => 
+                    [opt_out] => 
+                    [date_created] => 2018-04-28T21:48:09+00:00
+                    [date_modified] => 2018-04-28T21:48:09+00:00
+                    [confirmation_requested_on] => 
+                    [deleted] => 
+                    [my_favorite] => 
+                    [_acl] => stdClass Object
+                        (
+                            [fields] => stdClass Object
+                                (
+                                )
+
+                        )
+
+                    [_module] => EmailAddresses
+                )
+
+        )
+
+)
+##</br>SET EMAIL_ADDR to INVALID 0a68a016-4b2e-11e8-ad5c-0211b31cacdf ##</br>stdClass Object
+(
+    [id] => 0a68a016-4b2e-11e8-ad5c-0211b31cacdf
+    [email_address] => sales.kid@example.co.jp
+    [email_address_caps] => SALES.KID@EXAMPLE.CO.JP
+    [invalid_email] => 1
+    [opt_out] => 1
+    [date_created] => 2018-04-28T21:48:09+00:00
+    [date_modified] => 2020-03-31T16:08:18+00:00
+    [confirmation_requested_on] => 
+    [deleted] => 
+    [my_favorite] => 
+    [_acl] => stdClass Object
+        (
+            [fields] => stdClass Object
+                (
+                )
+
+        )
+
+    [_module] => EmailAddresses
+)
+##</br>1|4|section29@example.de||</br>
+stdClass Object
+(
+    [next_offset] => -1
+    [records] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 0a6a11f8-4b2e-11e8-a32c-0211b31cacdf
+                    [email_address] => section29@example.de
+                    [email_address_caps] => SECTION29@EXAMPLE.DE
+                    [invalid_email] => 
+                    [opt_out] => 
+                    [date_created] => 2018-04-28T21:48:09+00:00
+                    [date_modified] => 2018-04-28T21:48:09+00:00
+                    [confirmation_requested_on] => 
+                    [deleted] => 
+                    [my_favorite] => 
+                    [_acl] => stdClass Object
+                        (
+                            [fields] => stdClass Object
+                                (
+                                )
+
+                        )
+
+                    [_module] => EmailAddresses
+                )
+
+        )
+
+)
+##</br>SET EMAIL_ADDR to INVALID 0a6a11f8-4b2e-11e8-a32c-0211b31cacdf ##</br>stdClass Object
+(
+    [id] => 0a6a11f8-4b2e-11e8-a32c-0211b31cacdf
+    [email_address] => section29@example.de
+    [email_address_caps] => SECTION29@EXAMPLE.DE
+    [invalid_email] => 1
+    [opt_out] => 1
+    [date_created] => 2018-04-28T21:48:09+00:00
+    [date_modified] => 2020-03-31T16:08:19+00:00
+    [confirmation_requested_on] => 
+    [deleted] => 
+    [my_favorite] => 
+    [_acl] => stdClass Object
+        (
+            [fields] => stdClass Object
+                (
+                )
+
+        )
+
+    [_module] => EmailAddresses
+)
+##</br>1|5|support65@example.co.jp||</br>
+stdClass Object
+(
+    [next_offset] => -1
+    [records] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 0a8601c4-4b2e-11e8-99a4-0211b31cacdf
+                    [email_address] => support65@example.co.jp
+                    [email_address_caps] => SUPPORT65@EXAMPLE.CO.JP
+                    [invalid_email] => 
+                    [opt_out] => 
+                    [date_created] => 2018-04-28T21:48:09+00:00
+                    [date_modified] => 2018-04-28T21:48:09+00:00
+                    [confirmation_requested_on] => 
+                    [deleted] => 
+                    [my_favorite] => 
+                    [_acl] => stdClass Object
+                        (
+                            [fields] => stdClass Object
+                                (
+                                )
+
+                        )
+
+                    [_module] => EmailAddresses
+                )
+
+        )
+
+)
+##</br>SET EMAIL_ADDR to INVALID 0a8601c4-4b2e-11e8-99a4-0211b31cacdf ##</br>stdClass Object
+(
+    [id] => 0a8601c4-4b2e-11e8-99a4-0211b31cacdf
+    [email_address] => support65@example.co.jp
+    [email_address_caps] => SUPPORT65@EXAMPLE.CO.JP
+    [invalid_email] => 1
+    [opt_out] => 1
+    [date_created] => 2018-04-28T21:48:09+00:00
+    [date_modified] => 2020-03-31T16:08:20+00:00
+    [confirmation_requested_on] => 
+    [deleted] => 
+    [my_favorite] => 
+    [_acl] => stdClass Object
+        (
+            [fields] => stdClass Object
+                (
+                )
+
+        )
+
+    [_module] => EmailAddresses
+)
+##</br>1|6|info60@example.de||</br>
+stdClass Object
+(
+    [next_offset] => -1
+    [records] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 0a8772e8-4b2e-11e8-bce1-0211b31cacdf
+                    [email_address] => info60@example.de
+                    [email_address_caps] => INFO60@EXAMPLE.DE
+                    [invalid_email] => 
+                    [opt_out] => 1
+                    [date_created] => 2018-04-28T21:48:09+00:00
+                    [date_modified] => 2018-04-28T21:48:09+00:00
+                    [confirmation_requested_on] => 
+                    [deleted] => 
+                    [my_favorite] => 
+                    [_acl] => stdClass Object
+                        (
+                            [fields] => stdClass Object
+                                (
+                                )
+
+                        )
+
+                    [_module] => EmailAddresses
+                )
+
+        )
+
+)
+##</br>SET EMAIL_ADDR to INVALID 0a8772e8-4b2e-11e8-bce1-0211b31cacdf ##</br>stdClass Object
+(
+    [id] => 0a8772e8-4b2e-11e8-bce1-0211b31cacdf
+    [email_address] => info60@example.de
+    [email_address_caps] => INFO60@EXAMPLE.DE
+    [invalid_email] => 1
+    [opt_out] => 1
+    [date_created] => 2018-04-28T21:48:09+00:00
+    [date_modified] => 2020-03-31T16:08:21+00:00
+    [confirmation_requested_on] => 
+    [deleted] => 
+    [my_favorite] => 
+    [_acl] => stdClass Object
+        (
+            [fields] => stdClass Object
+                (
+                )
+
+        )
+
+    [_module] => EmailAddresses
+)
+##</br>TIME needed: 7<br>
